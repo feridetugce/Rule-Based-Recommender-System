@@ -185,4 +185,6 @@ agg_df.groupby("SEGMENT").agg({"PRICE": ["mean", "max", "sum"]})
 new_user ="TUR_ANDROID_FEMALE_31_40"
 agg_df[agg_df["customers_level_based"] == new_user ]
 
-##############################################################                           
+##############################################################   
+
+

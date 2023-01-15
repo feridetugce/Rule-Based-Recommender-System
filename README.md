@@ -29,9 +29,9 @@ The Persona.csv dataset contains the prices of the products sold by an internati
 products.The dataset consists of records created in each sales transaction. This means the table is not deduplicated. In other words, certain demographic information.
 A user with features may have made more than one purchase.
 
-Variables 
-PRICE – Customer's spending amount 
-SOURCE – The type of device the customer is connecting to 
-SEX – Gender of the client 
-COUNTRY – Country of the customer 
-AGE – Age of the customer 
+Variables     
+PRICE – Customer's spending amount        
+SOURCE – The type of device the customer is connecting to     
+SEX – Gender of the client    
+COUNTRY – Country of the customer       
+AGE – Age of the customer   

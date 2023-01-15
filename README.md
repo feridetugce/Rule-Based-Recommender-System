@@ -18,6 +18,9 @@ SEX – Müşterinin cinsiyeti
 COUNTRY – Müşterinin ülkesi     
 AGE – Müşterinin yaşı     
 
+Uyarı!!! 
+Veri seti açık kaynak olmadığı için paylaşılamamaktadır.
+
 [EN]
 Business Problem
 Creating new level-based customer definitions (personas) by using some features of a game company's customers and adding these new customer definitions.
@@ -35,3 +38,6 @@ SOURCE – The type of device the customer is connecting to
 SEX – Gender of the client    
 COUNTRY – Country of the customer       
 AGE – Age of the customer   
+
+Warning!!!!!!! 
+I should point out that I cannot share the dataset because it is not open source.

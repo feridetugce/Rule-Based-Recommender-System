@@ -1,3 +1,15 @@
+################### Business Problem ######################
+
+#   A game company wants to create a level-based customer definition (Persona) by using some features of current customers and new segments according to 
+#   these new customer definitions. With these new segments, the company aims to calculate and forecast the potential return of these customers.
+#   E.g., they want to forecast how much they can earn from 30 years old female android user from Canada.
+
+#################### DataSet Story ########################
+
+#   Persona.csv DataSet includes the price of some products and the demographics of the customers who buy those products.
+#   The DataSet involves the records that come up in any sales. Which means the table is not deduplicated. 
+#   In other words, a customer with specific demographics may have more than one transaction.
+
 ################## Before #################################
 
 #    PRICE   SOURCE   SEX COUNTRY   AGE

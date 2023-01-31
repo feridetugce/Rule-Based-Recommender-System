@@ -18,7 +18,7 @@ SEX – Müşterinin cinsiyeti
 COUNTRY – Müşterinin ülkesi     
 AGE – Müşterinin yaşı     
 
-Uyarı!!! 
+Uyarı!              
 Veri seti açık kaynak olmadığı için paylaşılamamaktadır.
 
 [EN]
@@ -39,5 +39,5 @@ SEX – Gender of the client
 COUNTRY – Country of the customer       
 AGE – Age of the customer   
 
-Warning!!!!!!! 
+Warning!          
 I should point out that I cannot share the dataset because it is not open source.
